@@ -74,9 +74,6 @@ target/
 #zip file
 *.zip
 
-#cpp file
-*.cpp
-
 #txt file
 *.txt
 
